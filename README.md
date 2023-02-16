@@ -10,6 +10,6 @@
 
 https://geo-web-app-19fba.web.app/#/
 
-<img src="https://github.com/nelermont/geo_web_app/blob/main/tile.png" width="200" />
+<img src="https://github.com/nelermont/geo_web_app/blob/main/tile.png" width="500" />
 
 *Приложение написано в рамках тестового задания для geoservice24
