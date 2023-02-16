@@ -1,16 +1,15 @@
-# web_geo_app
+# Geo_web_app
+Мультиплатформенное приложение для поиска Tile в Яндекс картах / Yandex map
 
-A new Flutter project.
+Входнные данные - координаты и масштаб(зум)
+На выходе получаем XY плитки и сам tile 
 
-## Getting Started
+Стэк использован:
+- Flutter/Dart
+- Firebase/Firestore
 
-This project is a starting point for a Flutter application.
+https://geo-web-app-19fba.web.app/#/
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/nelermont/geo_web_app/blob/main/tile.png" width="200" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Приложение написано в рамках тестового задания для geoservice24
